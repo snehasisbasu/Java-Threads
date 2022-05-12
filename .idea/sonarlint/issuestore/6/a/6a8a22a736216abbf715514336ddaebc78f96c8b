@@ -1,0 +1,35 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È²İ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÉºÖşÿÿÿÿ8´øœ‰0
+m	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìš£”8Óâõœ‰0
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÓ¦Âşÿÿÿÿ8£âóœ‰0
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç…‚8Š†ôœ‰0
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™³ë½8—­ôœ‰0
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì­…·8¹ıøœ‰0
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š±áõ8½²öœ‰0
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŞ„»8Ôåôœ‰0
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙæíÌøÿÿÿÿ8Ò„õœ‰0
+T
+java:S2629"7Use the built-in formatting to construct this argument.(ü£¶8Èæòœ‰0
+T
+java:S2629"7Use the built-in formatting to construct this argument.(ÀŒ¿ü8§À÷œ‰0
+M
+java:S2629 "7Use the built-in formatting to construct this argument.(Á°ĞŸ
+R
+java:S2629$"7Use the built-in formatting to construct this argument.(÷©ç³øÿÿÿÿ
+M
+java:S2629("7Use the built-in formatting to construct this argument.(ü£¶
+M
+java:S2629,"7Use the built-in formatting to construct this argument.(ü£¶
+A
+java:S26294"$Invoke method(s) only conditionally.(¹ì²…8”Àôœ‰0
+F
+java:S26298"$Invoke method(s) only conditionally.(Øäóúÿÿÿÿ8çÔøœ‰0
+A
+java:S2629<"$Invoke method(s) only conditionally.(Ìé®±8à†öœ‰0
+A
+java:S2629@"$Invoke method(s) only conditionally.(¹ì²…8Ø„õœ‰0
+A
+java:S2629D"$Invoke method(s) only conditionally.(¹ì²…8ô•õœ‰0
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÕœÅ÷
